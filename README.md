@@ -1,1 +1,0 @@
-# Otomata-W1
